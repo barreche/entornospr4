@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author loren
+ * @author Javier, alumno B
  */
 public class Cajero {
 
